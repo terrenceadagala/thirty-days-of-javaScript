@@ -1,0 +1,67 @@
+.container h1 {
+  font-size: x-large;
+  text-align: center;
+}
+.container {
+  text-align: center;
+  height: 70%;
+  width: 100%;
+  background-color: chartreuse;
+}
+.categories ul {
+  line-height: 4em;
+  text-transform: capitalize;
+  padding-left: 30%;
+  list-style: none;
+}
+.categories {
+  width: 20%;
+  height: 50%;
+  box-sizing: border-box;
+  background-color: cyan;
+  float: right;
+  padding: 5px;
+  text-decoration: underline;
+  line-height: 2em;
+}
+.categories h2 {
+  text-align: center;
+}
+
+.box-1 h1 {
+  color: white;
+  font-weight: 300;
+  text-decoration: underline;
+  text-align: center;
+}
+.box-1 h2 {
+  float: right;
+  font-size: xx-small;
+}
+
+.box-1 {
+  background-color: black;
+  color: white;
+  width: 75%;
+  height: 50%;
+  float: left;
+  padding: 20px;
+  line-height: 1.5em;
+  border-top: 10px;
+}
+.button {
+  border-top: 100px;
+  float: left;
+  text-align: center;
+  display: block;
+  margin-top: 50px;
+}
+.history h1 {
+  text-align: center;
+  font-weight: 400;
+}
+.history{ background-color: yellow;
+    padding: 20px;
+    width: 50%;
+}
+
